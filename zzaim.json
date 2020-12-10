@@ -4,18 +4,18 @@
  
  {
   
-     "image_url": "https://static2.banki.ru/upload/iblock/450/vostochnii_bank_135x85.gif",
-      "name": "Evvros",
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+      "name": "Тинькофф Банк",
      "rating": 5,
      "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 50 000 руб",
+    "percent": "6.9%",
+	"sum_one": "до 15 000 000",
 		"sum_min": "до 1 000 руб",
- "days_info": "от 7 до 160 дней",
+ "days_info": "от 12 - 180 месяцев",
  
 	"term_to": "160",
    
-     "url": "https://google.com",
+     "url": "https://www.banki.ru/banks/bank/tcs/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -41,18 +41,18 @@
 
  {
   
-     "image_url": "https://zaimua.com.ua/img/miloan_logo.png",
-      "name": "Milian",
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
+      "name": "Восточный Банк",
      "rating": 5,
      "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 50 000 руб",
+    "percent": "9% годовых",
+	"sum_one": "до 3 000 000",
 		"sum_min": "до 1 000 руб",
- "days_info": "от 7 до 160 дней",
+ "days_info": "от 13 - 60 месяцев",
  
 	"term_to": "160",
    
-     "url": "https://google.com",
+     "url": "https://www.vostbank.ru/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -76,18 +76,18 @@
 
  {
   
-     "image_url": "https://zaimua.com.ua/img/soscredit1.jpg",
-      "name": "Soscredit",
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+      "name": "ХОУМ КРЕДИТ",
      "rating": 5,
      "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 50 000 руб",
+    "percent": "10% годовых",
+	"sum_one": "до 700 000",
 		"sum_min": "до 1 000 руб",
- "days_info": "от 7 до 160 дней",
+ "days_info": "от 2х до 36 месяцев",
  
 	"term_to": "160",
    
-     "url": "https://google.com",
+     "url": "https://www.homecredit.ru",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
