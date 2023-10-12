@@ -1,0 +1,59 @@
+[
+    
+    
+ 
+ {
+  
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+      "age": "от 18 лет",
+     "rating": 5,
+    "percent": "3.9%",
+	"sum_one": "до 15 000 000",
+ "days_info": "от 12 - 180 месяцев",
+    "url": "https://www.banki.ru/banks/bank/tcs/"
+     
+
+
+  }
+    
+    
+,
+
+
+
+
+   {
+  
+   "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
+         "age": "от 18 лет",
+     "rating": 4,
+    "percent": "3.9%",
+	"sum_one": "до 3 000 000",
+ "days_info": "от 12 - 180 месяцев",
+    "url": "https://www.vostbank.ru/"
+     
+
+
+  }
+    
+    
+,
+
+
+   {
+ "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+       "age": "от 18 лет",
+     "rating": 3,
+    "percent": "10% годовых",
+	"sum_one": "до 700 000",
+ "days_info": "от 12 - 180 месяцев",
+    "url": "https://www.homecredit.ru"
+     
+
+
+  }
+
+   
+  
+  
+]
