@@ -1,36 +1,165 @@
 
 
-[
 
- {
-       
-        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-            "sum_one": "30 000  ₽",
+
+
+[
+  {
+
+              "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/crep.png",
+      
+     sum_one": "до 15 000 грн.",
+      
         "percent": "0%",
- "url": "https://www.banki.ru/banks/bank/tcs/"
-    } ,
-    
-  
-{
-        
-        "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
-            "sum_one": "80 000  ₽",
-        "percent": "0%",
-        "url": "https://www.vostbank.ru/"
+        "url": "https://tds.pdl-profit.com/h/lde632fa5490a91b?subid=uaasszc"
     },
 
 
-    {
-     
-           "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-            "sum_one": "50 000  ₽",
+
+  
+ {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/selfdit.png",
+      
+        "sum_one": "до 25 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/m4u62fa00cda5e05?subid=uaasszc"
+    },
+
+{
+
+             "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/egrosh.png",
+      
+        "sum_one": "до 25 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/li26450a3e4bdb24?subid=uaasszc"
+    },
+
+{
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cret7.png",
+              "sum_one": "до 25 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/ld3641d7bf950a93?subid=uaasszc"
+    },
+  
+ {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
+      
+        "sum_one": "до 17 000 грн.",
+      
         "percent": "1%",
-        "url": "https://www.homecredit.ru"
-    }
+        "url": "https://tds.pdl-profit.com/h/ltc63d0fac050b4a?subid=uaasszc"
+    },
+
+
+
+
+  
+ {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/miloo.png",
+      
+        "sum_one": "до 17 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/ld4635a970b2969e?subid=uaasszc"
+    },
+
+
  
-     
-       
+
+  {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffones.png",
+      
+        "sum_one": "до 20 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/mu566ea98ceaa072?subid=uaasszc"
+    }
+  ,
+
+
     
+ 
+
+
+
+  {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sslon.jpg",
+      
+        "sum_one": "до 25 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/lk4634872fe15481?subid=uaasszc"
+    },
+
+
+ {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sgroshi.png",
+              "sum_one": "до 20 000 грн.",
+      
+        "percent": "1%",
+        "url": "https://tds.pdl-profit.com/h/mp566ea98d3d91c9?subid=uaasszc"
+    },
+  
+ {
     
-    
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/kassa.png",
+      "sum_one": "до 20 000 грн.",
+  
+    "percent": "0%",
+    "url": "https://tds.pdl-profit.com/h/ler6757f629315a9?subid=uaasszc"
+},
+ 
+
+
+  
+ {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/aavans.png",
+              "sum_one": "до 20 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/mjm6450a43e432b3?subid=uaasszc"
+    }
+      ,
+
+
+
+
+  
+
+   {
+
+        
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vveo.png",
+      
+        "sum_one": "до 17 000 грн.",
+      
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/ldg63cce0581cc25?subid=uaasszc"
+    }
+
+
+
+
+
+
+
 ]
