@@ -2,28 +2,28 @@
 
  {
        "rating": 5,
-        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-            "sum_one": "30 000  ₽",
+        "image_url": "https://ideabank.ua/static/img/logo/logo.svg",
+            "sum_one": "30 000  грн",
         "percent": "0%",
- "url": "https://www.banki.ru/banks/bank/tcs/"
+ "url": "https://ideabank.ua/uk/product/i-credits"
     } ,
     
   
 {
         "rating": 4,
-        "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
-            "sum_one": "80 000  ₽",
+        "image_url": "https://faq.comfy.ua/wp-content/uploads/2023/09/och-sens-bank-768x191.png",
+            "sum_one": "80 000  грн",
         "percent": "0%",
-        "url": "https://www.vostbank.ru/"
+        "url": "https://landing.sensebank.com.ua/cash/"
     },
 
 
     {
      "rating": 2,
-           "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-            "sum_one": "50 000  ₽",
+           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pumb_logo.svg/407px-Pumb_logo.svg.png",
+            "sum_one": "50 000  грн",
         "percent": "1%",
-        "url": "https://www.homecredit.ru"
+        "url": "https://www.digital.pumb.ua/microcredit/apply-for-loan"
     }
  
      
