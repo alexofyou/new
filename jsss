@@ -5,7 +5,7 @@
         "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
             "sum_one": "30 000  ₽",
         "percent": "0%",
- "url": "https://www.banki.ru/banks/bank/tcs/"
+ "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1232700015778"
     } ,
     
   
@@ -14,7 +14,7 @@
         "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
             "sum_one": "80 000  ₽",
         "percent": "0%",
-        "url": "https://www.vostbank.ru/"
+        "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1137746831606"
     },
 
 
@@ -23,7 +23,7 @@
            "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
             "sum_one": "50 000  ₽",
         "percent": "1%",
-        "url": "https://www.homecredit.ru"
+        "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1137746702367"
     }
  
      
