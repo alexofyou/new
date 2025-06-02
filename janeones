@@ -22,12 +22,12 @@
 {
         
         "aage": "21-65",
-        "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
+        "image_url": "https://static3.banki.ru/ugc/fa/77/10/4d/76620.svg",
         "rating": 4,
         "sum_one": "до 80 000",
         "days_info": "",
         "percent": "0%",
-        "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1137746831606"
+        "url": "https://www.cbr.ru/banking_sector/credit/coinfo/?id=340000004"
     },
 
 
@@ -40,7 +40,7 @@
         "sum_one": "до 15 000",
         "days_info": "",
         "percent": "0%",
-        "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1137746702367"
+        "url": "https://cbr.ru/banking_sector/credit/coinfo/?id=450000650"
     }
     
     
